@@ -1,1 +1,2 @@
-This is file Bdir
+This is file B
+Lets's make changes
